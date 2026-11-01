@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T14:19:02.935Z",
+  "generated_at": "2026-11-01T14:19:13.757Z",
   "items": {
     "problem:92": {
       "kind": "problem",
@@ -401,6 +401,19 @@
       "path": "problems/0214-chain-rule-for-composite-functions",
       "first_solved_at": "2026-11-01T14:19:02.313Z",
       "last_pushed_at": "2026-11-01T14:19:02.313Z",
+      "language": "python",
+      "lines": 48
+    },
+    "problem:215": {
+      "kind": "problem",
+      "id": "215",
+      "title": "Partial Derivatives of Multivariable Functions",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/215",
+      "path": "problems/0215-partial-derivatives-of-multivariable-functions",
+      "first_solved_at": "2026-11-01T14:19:13.075Z",
+      "last_pushed_at": "2026-11-01T14:19:13.075Z",
       "language": "python",
       "lines": 48
     }
