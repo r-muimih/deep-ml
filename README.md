@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**22** solved · 22 problems · 0 labs · 0 math
+**23** solved · 23 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -25,6 +25,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Shift and Scale Array to Target Range](https://www.deep-ml.com/problems/141) | easy | 2026-11-01 | [solution](problems/0141-shift-and-scale-array-to-target-range) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-11-01 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Feature Hashing Trick for Sparse Features](https://www.deep-ml.com/problems/846) | medium | 2026-11-01 | [solution](problems/0846-feature-hashing-trick-for-sparse-features) |
+| [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-11-01 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-11-01 | [solution](problems/0354-handle-missing-data-with-imputation) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-11-01 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement Stratified K-Fold Cross-Validation](https://www.deep-ml.com/problems/840) | medium | 2026-11-01 | [solution](problems/0840-implement-stratified-k-fold-cross-validation) |
