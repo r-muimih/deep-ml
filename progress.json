@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T13:06:11.823Z",
+  "generated_at": "2026-11-01T13:09:51.625Z",
   "items": {
     "problem:92": {
       "kind": "problem",
@@ -117,6 +117,19 @@
       "last_pushed_at": "2026-11-01T13:06:10.853Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:141": {
+      "kind": "problem",
+      "id": "141",
+      "title": "Shift and Scale Array to Target Range",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/141",
+      "path": "problems/0141-shift-and-scale-array-to-target-range",
+      "first_solved_at": "2026-11-01T13:09:50.754Z",
+      "last_pushed_at": "2026-11-01T13:09:50.754Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
