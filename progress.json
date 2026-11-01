@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T14:27:15.324Z",
+  "generated_at": "2026-11-01T21:21:22.788Z",
   "items": {
     "problem:92": {
       "kind": "problem",
@@ -520,6 +520,19 @@
       "last_pushed_at": "2026-11-01T14:25:27.015Z",
       "language": "python",
       "lines": 44
+    },
+    "problem:845": {
+      "kind": "problem",
+      "id": "845",
+      "title": "ColumnTransformer-Style Dispatcher",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/845",
+      "path": "problems/0845-columntransformer-style-dispatcher",
+      "first_solved_at": "2026-11-01T21:21:22.159Z",
+      "last_pushed_at": "2026-11-01T21:21:22.159Z",
+      "language": "python",
+      "lines": 49
     }
   }
 }
