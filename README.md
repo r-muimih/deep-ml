@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**11** solved · 11 problems · 0 labs · 0 math
+**12** solved · 12 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2026-11-01 | [solution](problems/0030-batch-iterator-for-dataset) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-11-01 | [solution](problems/0016-feature-scaling-implementation) |
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-11-01 | [solution](problems/0112-min-max-scaling-of-feature-values) |
+| [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2026-11-01 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
 | [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2026-11-01 | [solution](problems/0029-random-shuffle-of-dataset) |
 | [Random Train/Validation/Test Split with Shuffling](https://www.deep-ml.com/problems/1058) | easy | 2026-11-01 | [solution](problems/1058-random-train-validation-test-split-with-shuffling) |
 | [Shift and Scale Array to Target Range](https://www.deep-ml.com/problems/141) | easy | 2026-11-01 | [solution](problems/0141-shift-and-scale-array-to-target-range) |
