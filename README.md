@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**35** solved · 35 problems · 0 labs · 0 math
+**36** solved · 36 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -45,6 +45,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Outlier Detection and Removal Using IQR Method](https://www.deep-ml.com/problems/355) | medium | 2026-11-01 | [solution](problems/0355-outlier-detection-and-removal-using-iqr-method) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-11-01 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-11-01 | [solution](problems/0842-standardscaler-fit-and-transform) |
+| [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-11-01 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
 | [Implement the Conjugate Gradient Method for Solving Linear Systems](https://www.deep-ml.com/problems/63) | hard | 2026-11-01 | [solution](problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems) |
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-11-01 | [solution](problems/0201-qr-decomposition) |
 

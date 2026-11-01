@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T14:20:01.923Z",
+  "generated_at": "2026-11-01T14:20:14.551Z",
   "items": {
     "problem:92": {
       "kind": "problem",
@@ -455,6 +455,19 @@
       "last_pushed_at": "2026-11-01T14:20:01.339Z",
       "language": "python",
       "lines": 32
+    },
+    "problem:802": {
+      "kind": "problem",
+      "id": "802",
+      "title": "Stochastic Gradient Descent Step for Linear Regression",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/802",
+      "path": "problems/0802-stochastic-gradient-descent-step-for-linear-regression",
+      "first_solved_at": "2026-11-01T14:20:13.674Z",
+      "last_pushed_at": "2026-11-01T14:20:13.674Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }
