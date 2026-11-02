@@ -1,3 +1,3 @@
 -- Return name and salary
-SELECT name, salary
+SELECT name AS employee, salary AS pay
 FROM employees
