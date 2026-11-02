@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T09:43:17.070Z",
+  "generated_at": "2026-11-02T09:46:24.346Z",
   "items": {
     "problem:92": {
       "kind": "problem",
@@ -609,6 +609,19 @@
       "path": "problems/1102-select-specific-columns",
       "first_solved_at": "2026-11-02T09:42:46.560Z",
       "last_pushed_at": "2026-11-02T09:43:16.237Z",
+      "language": "sql",
+      "lines": 4
+    },
+    "problem:1103": {
+      "kind": "problem",
+      "id": "1103",
+      "title": "Filter rows with WHERE",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1103",
+      "path": "problems/1103-filter-rows-with-where",
+      "first_solved_at": "2026-11-02T09:46:23.476Z",
+      "last_pushed_at": "2026-11-02T09:46:23.476Z",
       "language": "sql",
       "lines": 4
     }
