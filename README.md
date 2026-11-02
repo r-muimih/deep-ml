@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**53** solved · 53 problems · 0 labs · 0 math
+**54** solved · 54 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -39,6 +39,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sort results with ORDER BY](https://www.deep-ml.com/problems/1104) | easy | 2026-11-02 | [solution](problems/1104-sort-results-with-order-by) |
 | [Top N with LIMIT](https://www.deep-ml.com/problems/1106) | easy | 2026-11-02 | [solution](problems/1106-top-n-with-limit) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-11-01 | [solution](problems/0002-transpose-of-a-matrix) |
+| [Your first JOIN](https://www.deep-ml.com/problems/1109) | easy | 2026-11-02 | [solution](problems/1109-your-first-join) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-11-01 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Cholesky Decomposition](https://www.deep-ml.com/problems/334) | medium | 2026-11-01 | [solution](problems/0334-cholesky-decomposition) |
 | [ColumnTransformer-Style Dispatcher](https://www.deep-ml.com/problems/845) | medium | 2026-11-01 | [solution](problems/0845-columntransformer-style-dispatcher) |
