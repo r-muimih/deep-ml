@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**60** solved · 60 problems · 0 labs · 0 math
+**61** solved · 61 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -47,6 +47,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Cholesky Decomposition](https://www.deep-ml.com/problems/334) | medium | 2026-11-01 | [solution](problems/0334-cholesky-decomposition) |
 | [Clean a Messy Dataset: Dedup, Standardize, Impute](https://www.deep-ml.com/problems/1131) | medium | 2026-11-03 | [solution](problems/1131-clean-a-messy-dataset-dedup-standardize-impute) |
 | [ColumnTransformer-Style Dispatcher](https://www.deep-ml.com/problems/845) | medium | 2026-11-01 | [solution](problems/0845-columntransformer-style-dispatcher) |
+| [Data Quality Scoring for ML Pipelines](https://www.deep-ml.com/problems/252) | medium | 2026-11-03 | [solution](problems/0252-data-quality-scoring-for-ml-pipelines) |
 | [Detect Look-Ahead Bias in a Feature Pipeline](https://www.deep-ml.com/problems/1352) | medium | 2026-11-02 | [solution](problems/1352-detect-look-ahead-bias-in-a-feature-pipeline) |
 | [Detect Target Leakage in a Feature Matrix](https://www.deep-ml.com/problems/1359) | medium | 2026-11-02 | [solution](problems/1359-detect-target-leakage-in-a-feature-matrix) |
 | [Dummy Classifier Baseline](https://www.deep-ml.com/problems/847) | medium | 2026-11-01 | [solution](problems/0847-dummy-classifier-baseline) |
