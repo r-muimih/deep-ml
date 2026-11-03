@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T19:22:43.487Z",
+  "generated_at": "2026-11-03T19:22:58.373Z",
   "items": {
     "problem:92": {
       "kind": "problem",
@@ -582,7 +582,7 @@
       "url": "https://www.deep-ml.com/problems/1352",
       "path": "problems/1352-detect-look-ahead-bias-in-a-feature-pipeline",
       "first_solved_at": "2026-11-02T07:35:04.849Z",
-      "last_pushed_at": "2026-11-02T07:35:04.849Z",
+      "last_pushed_at": "2026-11-03T19:22:57.423Z",
       "language": "python",
       "lines": 42
     },
