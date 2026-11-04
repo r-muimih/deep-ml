@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T21:16:49.476Z",
+  "generated_at": "2026-11-04T21:26:45.858Z",
   "items": {
     "problem:92": {
       "kind": "problem",
@@ -837,6 +837,17 @@
       "path": "math/0017-covariance-and-correlation",
       "first_solved_at": "2026-11-04T21:16:47.622Z",
       "last_pushed_at": "2026-11-04T21:16:47.622Z"
+    },
+    "math:3": {
+      "kind": "math",
+      "id": "3",
+      "title": "Neural Network Derivatives",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/3",
+      "path": "math/0003-neural-network-derivatives",
+      "first_solved_at": "2026-11-04T21:26:44.782Z",
+      "last_pushed_at": "2026-11-04T21:26:44.782Z"
     }
   }
 }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**65** solved · 61 problems · 0 labs · 4 math
+**66** solved · 61 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -80,6 +80,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Covariance and Correlation](https://www.deep-ml.com/math-problems/17) | medium | 2026-11-04 | [solution](math/0017-covariance-and-correlation) |
 | [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-11-04 | [solution](math/0011-determinants-and-trace) |
+| [Neural Network Derivatives](https://www.deep-ml.com/math-problems/3) | medium | 2026-11-04 | [solution](math/0003-neural-network-derivatives) |
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-11-04 | [solution](math/0008-vector-norms-and-linear-independence) |
 | [Eigendecomposition and SVD](https://www.deep-ml.com/math-problems/16) | hard | 2026-11-04 | [solution](math/0016-eigendecomposition-and-svd) |
 
