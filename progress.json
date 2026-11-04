@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T21:06:31.127Z",
+  "generated_at": "2026-11-04T21:16:49.476Z",
   "items": {
     "problem:92": {
       "kind": "problem",
@@ -826,6 +826,17 @@
       "path": "math/0016-eigendecomposition-and-svd",
       "first_solved_at": "2026-11-04T21:06:29.423Z",
       "last_pushed_at": "2026-11-04T21:06:29.423Z"
+    },
+    "math:17": {
+      "kind": "math",
+      "id": "17",
+      "title": "Covariance and Correlation",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/17",
+      "path": "math/0017-covariance-and-correlation",
+      "first_solved_at": "2026-11-04T21:16:47.622Z",
+      "last_pushed_at": "2026-11-04T21:16:47.622Z"
     }
   }
 }
