@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T20:40:16.265Z",
+  "generated_at": "2026-11-04T21:06:31.127Z",
   "items": {
     "problem:92": {
       "kind": "problem",
@@ -815,6 +815,17 @@
       "path": "math/0011-determinants-and-trace",
       "first_solved_at": "2026-11-04T20:40:15.423Z",
       "last_pushed_at": "2026-11-04T20:40:15.423Z"
+    },
+    "math:16": {
+      "kind": "math",
+      "id": "16",
+      "title": "Eigendecomposition and SVD",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/16",
+      "path": "math/0016-eigendecomposition-and-svd",
+      "first_solved_at": "2026-11-04T21:06:29.423Z",
+      "last_pushed_at": "2026-11-04T21:06:29.423Z"
     }
   }
 }
