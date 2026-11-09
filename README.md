@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**80** solved · 75 problems · 0 labs · 5 math
+**81** solved · 76 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -78,6 +78,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Minimum Remove to Make Valid Parentheses](https://www.deep-ml.com/problems/1159) | medium | 2026-11-09 | [solution](problems/1159-minimum-remove-to-make-valid-parentheses) |
 | [Normalize a Terminal Path (cd + pwd)](https://www.deep-ml.com/problems/1153) | medium | 2026-11-09 | [solution](problems/1153-normalize-a-terminal-path-cd-pwd) |
 | [Nth-Highest Salary with Ties and NULL](https://www.deep-ml.com/problems/1110) | medium | 2026-11-02 | [solution](problems/1110-nth-highest-salary-with-ties-and-null) |
+| [Number Drills: Sieve of Eratosthenes, Fast Exponentiation and the Cube Root by Bisection](https://www.deep-ml.com/problems/1601) | medium | 2026-11-09 | [solution](problems/1601-number-drills-sieve-of-eratosthenes-fast-exponentiation-and-the-cube-root-by-bisection) |
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-11-01 | [solution](problems/0313-numerical-gradient-checking) |
 | [Ordinal Encoding for Categorical Features](https://www.deep-ml.com/problems/843) | medium | 2026-11-01 | [solution](problems/0843-ordinal-encoding-for-categorical-features) |
 | [Outlier Detection and Removal Using IQR Method](https://www.deep-ml.com/problems/355) | medium | 2026-11-01 | [solution](problems/0355-outlier-detection-and-removal-using-iqr-method) |

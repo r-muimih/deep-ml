@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T20:30:04.070Z",
+  "generated_at": "2026-11-09T20:31:01.027Z",
   "items": {
     "problem:92": {
       "kind": "problem",
@@ -1030,6 +1030,19 @@
       "last_pushed_at": "2026-11-09T20:30:03.288Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:1601": {
+      "kind": "problem",
+      "id": "1601",
+      "title": "Number Drills: Sieve of Eratosthenes, Fast Exponentiation and the Cube Root by Bisection",
+      "difficulty": "medium",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1601",
+      "path": "problems/1601-number-drills-sieve-of-eratosthenes-fast-exponentiation-and-the-cube-root-by-bisection",
+      "first_solved_at": "2026-11-09T20:31:00.314Z",
+      "last_pushed_at": "2026-11-09T20:31:00.314Z",
+      "language": "python",
+      "lines": 41
     }
   }
 }
