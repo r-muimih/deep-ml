@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T20:16:46.551Z",
+  "generated_at": "2026-11-09T20:22:09.664Z",
   "items": {
     "problem:92": {
       "kind": "problem",
@@ -952,6 +952,19 @@
       "last_pushed_at": "2026-11-09T20:16:45.685Z",
       "language": "python",
       "lines": 78
+    },
+    "problem:1554": {
+      "kind": "problem",
+      "id": "1554",
+      "title": "Array Drills: Stock Profit, House Robber and the Single Non-Duplicate",
+      "difficulty": "medium",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1554",
+      "path": "problems/1554-array-drills-stock-profit-house-robber-and-the-single-non-duplicate",
+      "first_solved_at": "2026-11-09T20:22:08.901Z",
+      "last_pushed_at": "2026-11-09T20:22:08.901Z",
+      "language": "python",
+      "lines": 41
     }
   }
 }
