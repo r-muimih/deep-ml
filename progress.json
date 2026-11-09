@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T20:28:23.532Z",
+  "generated_at": "2026-11-09T20:30:04.070Z",
   "items": {
     "problem:92": {
       "kind": "problem",
@@ -1017,6 +1017,19 @@
       "last_pushed_at": "2026-11-09T20:28:22.318Z",
       "language": "python",
       "lines": 28
+    },
+    "problem:1242": {
+      "kind": "problem",
+      "id": "1242",
+      "title": "Pure-Python String Parsing and Tokenizing",
+      "difficulty": "medium",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1242",
+      "path": "problems/1242-pure-python-string-parsing-and-tokenizing",
+      "first_solved_at": "2026-11-09T20:30:03.288Z",
+      "last_pushed_at": "2026-11-09T20:30:03.288Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
