@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T20:25:26.134Z",
+  "generated_at": "2026-11-09T20:27:29.223Z",
   "items": {
     "problem:92": {
       "kind": "problem",
@@ -1004,6 +1004,19 @@
       "last_pushed_at": "2026-11-09T20:25:25.053Z",
       "language": "python",
       "lines": 41
+    },
+    "problem:1153": {
+      "kind": "problem",
+      "id": "1153",
+      "title": "Normalize a Terminal Path (cd + pwd)",
+      "difficulty": "medium",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1153",
+      "path": "problems/1153-normalize-a-terminal-path-cd-pwd",
+      "first_solved_at": "2026-11-09T20:27:28.352Z",
+      "last_pushed_at": "2026-11-09T20:27:28.352Z",
+      "language": "python",
+      "lines": 28
     }
   }
 }
