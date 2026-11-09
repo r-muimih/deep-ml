@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**75** solved · 70 problems · 0 labs · 5 math
+**76** solved · 71 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -47,6 +47,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Your first JOIN](https://www.deep-ml.com/problems/1109) | easy | 2026-11-02 | [solution](problems/1109-your-first-join) |
 | [Array Drills: Product Except Self, 3Sum, Find Peak, Maximum Swap](https://www.deep-ml.com/problems/1173) | medium | 2026-11-09 | [solution](problems/1173-array-drills-product-except-self-3sum-find-peak-maximum-swap) |
 | [Array Drills: Stock Profit, House Robber and the Single Non-Duplicate](https://www.deep-ml.com/problems/1554) | medium | 2026-11-09 | [solution](problems/1554-array-drills-stock-profit-house-robber-and-the-single-non-duplicate) |
+| [Array/Matrix Drills: Ocean View, Toeplitz, Diagonal Traverse](https://www.deep-ml.com/problems/1169) | medium | 2026-11-09 | [solution](problems/1169-array-matrix-drills-ocean-view-toeplitz-diagonal-traverse) |
 | [Bias-Variance Decomposition from Bootstrap](https://www.deep-ml.com/problems/804) | medium | 2026-11-03 | [solution](problems/0804-bias-variance-decomposition-from-bootstrap) |
 | [Binary Search for Value or Closest Index](https://www.deep-ml.com/problems/1216) | medium | 2026-11-09 | [solution](problems/1216-binary-search-for-value-or-closest-index) |
 | [Build a Simple ETL Pipeline (MLOps)](https://www.deep-ml.com/problems/187) | medium | 2026-11-03 | [solution](problems/0187-build-a-simple-etl-pipeline-mlops) |

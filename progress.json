@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T20:22:09.664Z",
+  "generated_at": "2026-11-09T20:23:14.060Z",
   "items": {
     "problem:92": {
       "kind": "problem",
@@ -965,6 +965,19 @@
       "last_pushed_at": "2026-11-09T20:22:08.901Z",
       "language": "python",
       "lines": 41
+    },
+    "problem:1169": {
+      "kind": "problem",
+      "id": "1169",
+      "title": "Array/Matrix Drills: Ocean View, Toeplitz, Diagonal Traverse",
+      "difficulty": "medium",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1169",
+      "path": "problems/1169-array-matrix-drills-ocean-view-toeplitz-diagonal-traverse",
+      "first_solved_at": "2026-11-09T20:23:13.025Z",
+      "last_pushed_at": "2026-11-09T20:23:13.025Z",
+      "language": "python",
+      "lines": 34
     }
   }
 }
