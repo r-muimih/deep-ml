@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T20:12:39.613Z",
+  "generated_at": "2026-11-09T20:15:22.339Z",
   "items": {
     "problem:92": {
       "kind": "problem",
@@ -939,6 +939,19 @@
       "last_pushed_at": "2026-11-09T20:12:38.478Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:1173": {
+      "kind": "problem",
+      "id": "1173",
+      "title": "Array Drills: Product Except Self, 3Sum, Find Peak, Maximum Swap",
+      "difficulty": "medium",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1173",
+      "path": "problems/1173-array-drills-product-except-self-3sum-find-peak-maximum-swap",
+      "first_solved_at": "2026-11-09T20:15:20.579Z",
+      "last_pushed_at": "2026-11-09T20:15:20.579Z",
+      "language": "python",
+      "lines": 78
     }
   }
 }
