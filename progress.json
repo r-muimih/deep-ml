@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T20:31:01.027Z",
+  "generated_at": "2026-11-09T20:31:54.731Z",
   "items": {
     "problem:92": {
       "kind": "problem",
@@ -1043,6 +1043,19 @@
       "last_pushed_at": "2026-11-09T20:31:00.314Z",
       "language": "python",
       "lines": 41
+    },
+    "problem:1603": {
+      "kind": "problem",
+      "id": "1603",
+      "title": "Drills: Permutation in String, Reverse a Linked List Between Two Positions and Combination Sum II",
+      "difficulty": "medium",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1603",
+      "path": "problems/1603-drills-permutation-in-string-reverse-a-linked-list-between-two-positions-and-combination-sum-ii",
+      "first_solved_at": "2026-11-09T20:31:53.766Z",
+      "last_pushed_at": "2026-11-09T20:31:53.766Z",
+      "language": "python",
+      "lines": 98
     }
   }
 }

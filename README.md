@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**81** solved · 76 problems · 0 labs · 5 math
+**82** solved · 77 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -60,6 +60,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Data Quality Scoring for ML Pipelines](https://www.deep-ml.com/problems/252) | medium | 2026-11-03 | [solution](problems/0252-data-quality-scoring-for-ml-pipelines) |
 | [Detect Look-Ahead Bias in a Feature Pipeline](https://www.deep-ml.com/problems/1352) | medium | 2026-11-02 | [solution](problems/1352-detect-look-ahead-bias-in-a-feature-pipeline) |
 | [Detect Target Leakage in a Feature Matrix](https://www.deep-ml.com/problems/1359) | medium | 2026-11-02 | [solution](problems/1359-detect-target-leakage-in-a-feature-matrix) |
+| [Drills: Permutation in String, Reverse a Linked List Between Two Positions and Combination Sum II](https://www.deep-ml.com/problems/1603) | medium | 2026-11-09 | [solution](problems/1603-drills-permutation-in-string-reverse-a-linked-list-between-two-positions-and-combination-sum-ii) |
 | [Dummy Classifier Baseline](https://www.deep-ml.com/problems/847) | medium | 2026-11-01 | [solution](problems/0847-dummy-classifier-baseline) |
 | [Dummy Regressor Baseline](https://www.deep-ml.com/problems/848) | medium | 2026-11-02 | [solution](problems/0848-dummy-regressor-baseline) |
 | [Feature Hashing Trick for Sparse Features](https://www.deep-ml.com/problems/846) | medium | 2026-11-01 | [solution](problems/0846-feature-hashing-trick-for-sparse-features) |
