@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T18:36:10.471Z",
+  "generated_at": "2026-11-09T18:42:35.725Z",
   "items": {
     "problem:92": {
       "kind": "problem",
@@ -874,6 +874,19 @@
       "last_pushed_at": "2026-11-09T18:36:09.493Z",
       "language": "python",
       "lines": 6
+    },
+    "problem:1141": {
+      "kind": "problem",
+      "id": "1141",
+      "title": "Count Words Appearing Exactly Once in Each of Two Lists",
+      "difficulty": "easy",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1141",
+      "path": "problems/1141-count-words-appearing-exactly-once-in-each-of-two-lists",
+      "first_solved_at": "2026-11-09T18:42:34.957Z",
+      "last_pushed_at": "2026-11-09T18:42:34.957Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }
