@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T20:24:14.175Z",
+  "generated_at": "2026-11-09T20:25:26.134Z",
   "items": {
     "problem:92": {
       "kind": "problem",
@@ -991,6 +991,19 @@
       "last_pushed_at": "2026-11-09T20:24:13.434Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:1166": {
+      "kind": "problem",
+      "id": "1166",
+      "title": "Basic Calculator: Evaluate Expression String",
+      "difficulty": "medium",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1166",
+      "path": "problems/1166-basic-calculator-evaluate-expression-string",
+      "first_solved_at": "2026-11-09T20:25:25.053Z",
+      "last_pushed_at": "2026-11-09T20:25:25.053Z",
+      "language": "python",
+      "lines": 41
     }
   }
 }
