@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T20:52:30.381Z",
+  "generated_at": "2026-11-10T20:54:22.702Z",
   "items": {
     "problem:92": {
       "kind": "problem",
@@ -1264,6 +1264,19 @@
       "last_pushed_at": "2026-11-10T20:52:29.547Z",
       "language": "python",
       "lines": 40
+    },
+    "problem:1170": {
+      "kind": "problem",
+      "id": "1170",
+      "title": "Nested List Weight Sum and Range Sum of BST",
+      "difficulty": "medium",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1170",
+      "path": "problems/1170-nested-list-weight-sum-and-range-sum-of-bst",
+      "first_solved_at": "2026-11-10T20:54:21.477Z",
+      "last_pushed_at": "2026-11-10T20:54:21.477Z",
+      "language": "python",
+      "lines": 39
     }
   }
 }

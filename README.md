@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**98** solved · 93 problems · 0 labs · 5 math
+**99** solved · 94 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -88,6 +88,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Merge K Sorted Lists and Find the K-th Smallest](https://www.deep-ml.com/problems/1464) | medium | 2026-11-10 | [solution](problems/1464-merge-k-sorted-lists-and-find-the-k-th-smallest) |
 | [Mini-Batch Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/803) | medium | 2026-11-01 | [solution](problems/0803-mini-batch-gradient-descent-step-for-linear-regression) |
 | [Minimum Remove to Make Valid Parentheses](https://www.deep-ml.com/problems/1159) | medium | 2026-11-09 | [solution](problems/1159-minimum-remove-to-make-valid-parentheses) |
+| [Nested List Weight Sum and Range Sum of BST](https://www.deep-ml.com/problems/1170) | medium | 2026-11-10 | [solution](problems/1170-nested-list-weight-sum-and-range-sum-of-bst) |
 | [Normalize a Terminal Path (cd + pwd)](https://www.deep-ml.com/problems/1153) | medium | 2026-11-09 | [solution](problems/1153-normalize-a-terminal-path-cd-pwd) |
 | [Nth-Highest Salary with Ties and NULL](https://www.deep-ml.com/problems/1110) | medium | 2026-11-02 | [solution](problems/1110-nth-highest-salary-with-ties-and-null) |
 | [Number Drills: Sieve of Eratosthenes, Fast Exponentiation and the Cube Root by Bisection](https://www.deep-ml.com/problems/1601) | medium | 2026-11-09 | [solution](problems/1601-number-drills-sieve-of-eratosthenes-fast-exponentiation-and-the-cube-root-by-bisection) |
