@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T20:42:04.102Z",
+  "generated_at": "2026-11-10T20:43:34.776Z",
   "items": {
     "problem:92": {
       "kind": "problem",
@@ -1225,6 +1225,19 @@
       "last_pushed_at": "2026-11-10T20:42:03.130Z",
       "language": "python",
       "lines": 56
+    },
+    "problem:1162": {
+      "kind": "problem",
+      "id": "1162",
+      "title": "Binary Tree Vertical Order Traversal",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/1162",
+      "path": "problems/1162-binary-tree-vertical-order-traversal",
+      "first_solved_at": "2026-11-10T20:43:33.195Z",
+      "last_pushed_at": "2026-11-10T20:43:33.195Z",
+      "language": "python",
+      "lines": 27
     }
   }
 }
