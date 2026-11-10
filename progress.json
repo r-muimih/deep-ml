@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T20:31:54.731Z",
+  "generated_at": "2026-11-10T20:22:45.529Z",
   "items": {
     "problem:92": {
       "kind": "problem",
@@ -1056,6 +1056,19 @@
       "last_pushed_at": "2026-11-09T20:31:53.766Z",
       "language": "python",
       "lines": 98
+    },
+    "problem:1088": {
+      "kind": "problem",
+      "id": "1088",
+      "title": "Implement a Hash Table from Scratch",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/1088",
+      "path": "problems/1088-implement-a-hash-table-from-scratch",
+      "first_solved_at": "2026-11-10T20:22:44.069Z",
+      "last_pushed_at": "2026-11-10T20:22:44.069Z",
+      "language": "python",
+      "lines": 64
     }
   }
 }
