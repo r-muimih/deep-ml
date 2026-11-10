@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T20:43:34.776Z",
+  "generated_at": "2026-11-10T20:44:38.198Z",
   "items": {
     "problem:92": {
       "kind": "problem",
@@ -1238,6 +1238,19 @@
       "last_pushed_at": "2026-11-10T20:43:33.195Z",
       "language": "python",
       "lines": 27
+    },
+    "problem:1172": {
+      "kind": "problem",
+      "id": "1172",
+      "title": "Binary Tree Drills: Diameter, Max Path Sum, Serialize/Deserialize",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/1172",
+      "path": "problems/1172-binary-tree-drills-diameter-max-path-sum-serialize-deserialize",
+      "first_solved_at": "2026-11-10T20:44:37.252Z",
+      "last_pushed_at": "2026-11-10T20:44:37.252Z",
+      "language": "python",
+      "lines": 101
     }
   }
 }
