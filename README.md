@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**103** solved · 98 problems · 0 labs · 5 math
+**104** solved · 99 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -70,6 +70,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dummy Regressor Baseline](https://www.deep-ml.com/problems/848) | medium | 2026-11-02 | [solution](problems/0848-dummy-regressor-baseline) |
 | [Efficiently Find Duplicates in a Large Dataset](https://www.deep-ml.com/problems/1089) | medium | 2026-11-10 | [solution](problems/1089-efficiently-find-duplicates-in-a-large-dataset) |
 | [Feature Hashing Trick for Sparse Features](https://www.deep-ml.com/problems/846) | medium | 2026-11-01 | [solution](problems/0846-feature-hashing-trick-for-sparse-features) |
+| [Find Captain Redbeard's Hidden Treasure](https://www.deep-ml.com/problems/127) | medium | 2026-11-10 | [solution](problems/0127-find-captain-redbeard-s-hidden-treasure) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-11-01 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-11-01 | [solution](problems/0354-handle-missing-data-with-imputation) |
 | [Heap Drills: Top-K Frequent Elements and K Closest Points](https://www.deep-ml.com/problems/1171) | medium | 2026-11-10 | [solution](problems/1171-heap-drills-top-k-frequent-elements-and-k-closest-points) |
