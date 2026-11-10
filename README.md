@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**83** solved · 78 problems · 0 labs · 5 math
+**84** solved · 79 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -63,6 +63,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Drills: Permutation in String, Reverse a Linked List Between Two Positions and Combination Sum II](https://www.deep-ml.com/problems/1603) | medium | 2026-11-09 | [solution](problems/1603-drills-permutation-in-string-reverse-a-linked-list-between-two-positions-and-combination-sum-ii) |
 | [Dummy Classifier Baseline](https://www.deep-ml.com/problems/847) | medium | 2026-11-01 | [solution](problems/0847-dummy-classifier-baseline) |
 | [Dummy Regressor Baseline](https://www.deep-ml.com/problems/848) | medium | 2026-11-02 | [solution](problems/0848-dummy-regressor-baseline) |
+| [Efficiently Find Duplicates in a Large Dataset](https://www.deep-ml.com/problems/1089) | medium | 2026-11-10 | [solution](problems/1089-efficiently-find-duplicates-in-a-large-dataset) |
 | [Feature Hashing Trick for Sparse Features](https://www.deep-ml.com/problems/846) | medium | 2026-11-01 | [solution](problems/0846-feature-hashing-trick-for-sparse-features) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-11-01 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-11-01 | [solution](problems/0354-handle-missing-data-with-imputation) |
