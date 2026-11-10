@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**91** solved · 86 problems · 0 labs · 5 math
+**92** solved · 87 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -89,6 +89,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Ordinal Encoding for Categorical Features](https://www.deep-ml.com/problems/843) | medium | 2026-11-01 | [solution](problems/0843-ordinal-encoding-for-categorical-features) |
 | [Outlier Detection and Removal Using IQR Method](https://www.deep-ml.com/problems/355) | medium | 2026-11-01 | [solution](problems/0355-outlier-detection-and-removal-using-iqr-method) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-11-01 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
+| [Persistent LRU Cache](https://www.deep-ml.com/problems/1095) | medium | 2026-11-10 | [solution](problems/1095-persistent-lru-cache) |
 | [Pure-Python String Parsing and Tokenizing](https://www.deep-ml.com/problems/1242) | medium | 2026-11-09 | [solution](problems/1242-pure-python-string-parsing-and-tokenizing) |
 | [Queue from Two Stacks and a Min-Stack](https://www.deep-ml.com/problems/1147) | medium | 2026-11-10 | [solution](problems/1147-queue-from-two-stacks-and-a-min-stack) |
 | [Random Pick with Weight (Prefix Sum + Binary Search)](https://www.deep-ml.com/problems/1165) | medium | 2026-11-10 | [solution](problems/1165-random-pick-with-weight-prefix-sum-binary-search) |
