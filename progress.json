@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T20:26:14.863Z",
+  "generated_at": "2026-11-10T20:28:56.889Z",
   "items": {
     "problem:92": {
       "kind": "problem",
@@ -1121,6 +1121,19 @@
       "last_pushed_at": "2026-11-10T20:26:14.024Z",
       "language": "python",
       "lines": 41
+    },
+    "problem:1553": {
+      "kind": "problem",
+      "id": "1553",
+      "title": "Stack Drills: Asteroid Collision, Balanced Brackets and Longest Valid Parentheses",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/1553",
+      "path": "problems/1553-stack-drills-asteroid-collision-balanced-brackets-and-longest-valid-parentheses",
+      "first_solved_at": "2026-11-10T20:28:56.124Z",
+      "last_pushed_at": "2026-11-10T20:28:56.124Z",
+      "language": "python",
+      "lines": 45
     }
   }
 }

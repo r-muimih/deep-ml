@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**87** solved · 82 problems · 0 labs · 5 math
+**88** solved · 83 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -90,6 +90,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Pure-Python String Parsing and Tokenizing](https://www.deep-ml.com/problems/1242) | medium | 2026-11-09 | [solution](problems/1242-pure-python-string-parsing-and-tokenizing) |
 | [Queue from Two Stacks and a Min-Stack](https://www.deep-ml.com/problems/1147) | medium | 2026-11-10 | [solution](problems/1147-queue-from-two-stacks-and-a-min-stack) |
 | [Running Median of a Data Stream](https://www.deep-ml.com/problems/1138) | medium | 2026-11-10 | [solution](problems/1138-running-median-of-a-data-stream) |
+| [Stack Drills: Asteroid Collision, Balanced Brackets and Longest Valid Parentheses](https://www.deep-ml.com/problems/1553) | medium | 2026-11-10 | [solution](problems/1553-stack-drills-asteroid-collision-balanced-brackets-and-longest-valid-parentheses) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-11-01 | [solution](problems/0842-standardscaler-fit-and-transform) |
 | [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-11-01 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
 | [Implement the Conjugate Gradient Method for Solving Linear Systems](https://www.deep-ml.com/problems/63) | hard | 2026-11-01 | [solution](problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems) |
