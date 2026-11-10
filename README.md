@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**102** solved · 97 problems · 0 labs · 5 math
+**103** solved · 98 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -102,6 +102,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-11-10 | [solution](problems/0309-product-rule-for-derivatives) |
 | [Pure-Python String Parsing and Tokenizing](https://www.deep-ml.com/problems/1242) | medium | 2026-11-09 | [solution](problems/1242-pure-python-string-parsing-and-tokenizing) |
 | [Queue from Two Stacks and a Min-Stack](https://www.deep-ml.com/problems/1147) | medium | 2026-11-10 | [solution](problems/1147-queue-from-two-stacks-and-a-min-stack) |
+| [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-11-10 | [solution](problems/0312-quotient-rule-for-derivatives) |
 | [Random Pick with Weight (Prefix Sum + Binary Search)](https://www.deep-ml.com/problems/1165) | medium | 2026-11-10 | [solution](problems/1165-random-pick-with-weight-prefix-sum-binary-search) |
 | [Running Median of a Data Stream](https://www.deep-ml.com/problems/1138) | medium | 2026-11-10 | [solution](problems/1138-running-median-of-a-data-stream) |
 | [Stack Drills: Asteroid Collision, Balanced Brackets and Longest Valid Parentheses](https://www.deep-ml.com/problems/1553) | medium | 2026-11-10 | [solution](problems/1553-stack-drills-asteroid-collision-balanced-brackets-and-longest-valid-parentheses) |
