@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T20:56:30.734Z",
+  "generated_at": "2026-11-10T20:57:25.244Z",
   "items": {
     "problem:92": {
       "kind": "problem",
@@ -1290,6 +1290,19 @@
       "last_pushed_at": "2026-11-10T20:56:29.722Z",
       "language": "python",
       "lines": 41
+    },
+    "problem:1156": {
+      "kind": "problem",
+      "id": "1156",
+      "title": "Package Version Resolution via Hierarchical Binary Search",
+      "difficulty": "medium",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1156",
+      "path": "problems/1156-package-version-resolution-via-hierarchical-binary-search",
+      "first_solved_at": "2026-11-10T20:57:24.048Z",
+      "last_pushed_at": "2026-11-10T20:57:24.048Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
