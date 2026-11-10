@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T20:33:51.746Z",
+  "generated_at": "2026-11-10T20:35:33.510Z",
   "items": {
     "problem:92": {
       "kind": "problem",
@@ -1160,6 +1160,19 @@
       "last_pushed_at": "2026-11-10T20:33:50.899Z",
       "language": "python",
       "lines": 43
+    },
+    "problem:1099": {
+      "kind": "problem",
+      "id": "1099",
+      "title": "LRU Memoization Decorator with Deterministic Key Generation",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/1099",
+      "path": "problems/1099-lru-memoization-decorator-with-deterministic-key-generation",
+      "first_solved_at": "2026-11-10T20:35:32.728Z",
+      "last_pushed_at": "2026-11-10T20:35:32.728Z",
+      "language": "python",
+      "lines": 47
     }
   }
 }

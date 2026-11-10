@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**90** solved · 85 problems · 0 labs · 5 math
+**91** solved · 86 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -76,6 +76,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-11-03 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-11-01 | [solution](problems/0092-linear-regression-power-grid-optimization) |
 | [Longest Substring / Subarray with Two Pointers](https://www.deep-ml.com/problems/1148) | medium | 2026-11-09 | [solution](problems/1148-longest-substring-subarray-with-two-pointers) |
+| [LRU Memoization Decorator with Deterministic Key Generation](https://www.deep-ml.com/problems/1099) | medium | 2026-11-10 | [solution](problems/1099-lru-memoization-decorator-with-deterministic-key-generation) |
 | [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-11-01 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-11-01 | [solution](problems/0009-matrix-times-matrix) |
 | [Merge K Sorted Lists and Find the K-th Smallest](https://www.deep-ml.com/problems/1464) | medium | 2026-11-10 | [solution](problems/1464-merge-k-sorted-lists-and-find-the-k-th-smallest) |
