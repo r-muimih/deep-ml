@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T20:44:38.198Z",
+  "generated_at": "2026-11-10T20:52:30.381Z",
   "items": {
     "problem:92": {
       "kind": "problem",
@@ -1251,6 +1251,19 @@
       "last_pushed_at": "2026-11-10T20:44:37.252Z",
       "language": "python",
       "lines": 101
+    },
+    "problem:1164": {
+      "kind": "problem",
+      "id": "1164",
+      "title": "Lowest Common Ancestor of a Binary Tree",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/1164",
+      "path": "problems/1164-lowest-common-ancestor-of-a-binary-tree",
+      "first_solved_at": "2026-11-10T20:52:29.547Z",
+      "last_pushed_at": "2026-11-10T20:52:29.547Z",
+      "language": "python",
+      "lines": 40
     }
   }
 }
