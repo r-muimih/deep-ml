@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**94** solved · 89 problems · 0 labs · 5 math
+**95** solved · 90 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -60,6 +60,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [ColumnTransformer-Style Dispatcher](https://www.deep-ml.com/problems/845) | medium | 2026-11-01 | [solution](problems/0845-columntransformer-style-dispatcher) |
 | [Count Subarrays Summing to K (Prefix-Sum Hash Map)](https://www.deep-ml.com/problems/1161) | medium | 2026-11-09 | [solution](problems/1161-count-subarrays-summing-to-k-prefix-sum-hash-map) |
 | [Data Quality Scoring for ML Pipelines](https://www.deep-ml.com/problems/252) | medium | 2026-11-03 | [solution](problems/0252-data-quality-scoring-for-ml-pipelines) |
+| [Detect a Cycle in a Linked List and a Graph](https://www.deep-ml.com/problems/1087) | medium | 2026-11-10 | [solution](problems/1087-detect-a-cycle-in-a-linked-list-and-a-graph) |
 | [Detect Look-Ahead Bias in a Feature Pipeline](https://www.deep-ml.com/problems/1352) | medium | 2026-11-02 | [solution](problems/1352-detect-look-ahead-bias-in-a-feature-pipeline) |
 | [Detect Target Leakage in a Feature Matrix](https://www.deep-ml.com/problems/1359) | medium | 2026-11-02 | [solution](problems/1359-detect-target-leakage-in-a-feature-matrix) |
 | [Drills: Permutation in String, Reverse a Linked List Between Two Positions and Combination Sum II](https://www.deep-ml.com/problems/1603) | medium | 2026-11-09 | [solution](problems/1603-drills-permutation-in-string-reverse-a-linked-list-between-two-positions-and-combination-sum-ii) |
