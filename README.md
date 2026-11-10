@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**99** solved · 94 problems · 0 labs · 5 math
+**100** solved · 95 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -74,6 +74,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-11-01 | [solution](problems/0354-handle-missing-data-with-imputation) |
 | [Heap Drills: Top-K Frequent Elements and K Closest Points](https://www.deep-ml.com/problems/1171) | medium | 2026-11-10 | [solution](problems/1171-heap-drills-top-k-frequent-elements-and-k-closest-points) |
 | [Implement a Hash Table from Scratch](https://www.deep-ml.com/problems/1088) | medium | 2026-11-10 | [solution](problems/1088-implement-a-hash-table-from-scratch) |
+| [Implement a Trie for Prefix Matching](https://www.deep-ml.com/problems/1083) | medium | 2026-11-10 | [solution](problems/1083-implement-a-trie-for-prefix-matching) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-11-01 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-11-01 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement Stratified K-Fold Cross-Validation](https://www.deep-ml.com/problems/840) | medium | 2026-11-01 | [solution](problems/0840-implement-stratified-k-fold-cross-validation) |
