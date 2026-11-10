@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**84** solved · 79 problems · 0 labs · 5 math
+**85** solved · 80 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -67,6 +67,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Feature Hashing Trick for Sparse Features](https://www.deep-ml.com/problems/846) | medium | 2026-11-01 | [solution](problems/0846-feature-hashing-trick-for-sparse-features) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-11-01 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-11-01 | [solution](problems/0354-handle-missing-data-with-imputation) |
+| [Heap Drills: Top-K Frequent Elements and K Closest Points](https://www.deep-ml.com/problems/1171) | medium | 2026-11-10 | [solution](problems/1171-heap-drills-top-k-frequent-elements-and-k-closest-points) |
 | [Implement a Hash Table from Scratch](https://www.deep-ml.com/problems/1088) | medium | 2026-11-10 | [solution](problems/1088-implement-a-hash-table-from-scratch) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-11-01 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-11-01 | [solution](problems/0018-implement-k-fold-cross-validation) |

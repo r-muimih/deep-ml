@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T20:23:27.799Z",
+  "generated_at": "2026-11-10T20:24:23.510Z",
   "items": {
     "problem:92": {
       "kind": "problem",
@@ -1082,6 +1082,19 @@
       "last_pushed_at": "2026-11-10T20:23:26.956Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:1171": {
+      "kind": "problem",
+      "id": "1171",
+      "title": "Heap Drills: Top-K Frequent Elements and K Closest Points",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/1171",
+      "path": "problems/1171-heap-drills-top-k-frequent-elements-and-k-closest-points",
+      "first_solved_at": "2026-11-10T20:24:22.700Z",
+      "last_pushed_at": "2026-11-10T20:24:22.700Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
