@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**89** solved · 84 problems · 0 labs · 5 math
+**90** solved · 85 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -78,6 +78,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Longest Substring / Subarray with Two Pointers](https://www.deep-ml.com/problems/1148) | medium | 2026-11-09 | [solution](problems/1148-longest-substring-subarray-with-two-pointers) |
 | [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-11-01 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-11-01 | [solution](problems/0009-matrix-times-matrix) |
+| [Merge K Sorted Lists and Find the K-th Smallest](https://www.deep-ml.com/problems/1464) | medium | 2026-11-10 | [solution](problems/1464-merge-k-sorted-lists-and-find-the-k-th-smallest) |
 | [Mini-Batch Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/803) | medium | 2026-11-01 | [solution](problems/0803-mini-batch-gradient-descent-step-for-linear-regression) |
 | [Minimum Remove to Make Valid Parentheses](https://www.deep-ml.com/problems/1159) | medium | 2026-11-09 | [solution](problems/1159-minimum-remove-to-make-valid-parentheses) |
 | [Normalize a Terminal Path (cd + pwd)](https://www.deep-ml.com/problems/1153) | medium | 2026-11-09 | [solution](problems/1153-normalize-a-terminal-path-cd-pwd) |

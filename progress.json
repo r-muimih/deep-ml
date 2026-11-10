@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T20:29:56.154Z",
+  "generated_at": "2026-11-10T20:33:51.746Z",
   "items": {
     "problem:92": {
       "kind": "problem",
@@ -1147,6 +1147,19 @@
       "last_pushed_at": "2026-11-10T20:29:55.460Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:1464": {
+      "kind": "problem",
+      "id": "1464",
+      "title": "Merge K Sorted Lists and Find the K-th Smallest",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/1464",
+      "path": "problems/1464-merge-k-sorted-lists-and-find-the-k-th-smallest",
+      "first_solved_at": "2026-11-10T20:33:50.899Z",
+      "last_pushed_at": "2026-11-10T20:33:50.899Z",
+      "language": "python",
+      "lines": 43
     }
   }
 }
